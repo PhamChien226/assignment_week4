@@ -16,6 +16,8 @@ Completed user stories:
  * [x] User can see active todos on the ActiveScreen.
 
 **Walkthrough of all user stories:**
-![Video Walkthrough](https://media.giphy.com/media/JpYnqAnAyLj29NQv5f/giphy.gif)
+
+
+![Video Walkthrough](https://media.giphy.com/media/ekNAr6G7t31TMNFmNX/giphy.gif)
 
 GIF created with [GIFMAKER](https://play.google.com/store/apps/details?id=com.media.zatashima.studio).
